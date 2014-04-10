@@ -5,12 +5,12 @@
 
 Summary:	kteatime
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	LGPL
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	5fbc0b35931652432521e2ec87cbbbdd
+# Source0-md5:	f50b6657928069f73b696ab6372c4b55
 URL:		http://www.kde.org/
 BuildRequires:	automoc4 >= 0.9.84
 BuildRequires:	cmake >= 2.8.0
